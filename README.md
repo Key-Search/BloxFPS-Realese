@@ -1,7 +1,7 @@
 # BloxFPS-Realese
 https://bloxfps.my-free.website/
 
-# Showing as unsafe?
+# Showing as unsafe?  (Only shows up on Windows)
 1. Click on Keep
 2. And click on more info
 3. And click keep anyway
